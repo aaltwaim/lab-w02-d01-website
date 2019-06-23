@@ -28,7 +28,7 @@ Built web app prototype that allows users to store and quickly retrieve photos u
 
 
 EDUCATION
-
 General Assembly — FEWD 2015
 College of Soft Knocks — B.S. 2009
 School of Hard Knocks — 2005 (Honors)
+
